@@ -1,2 +1,2 @@
 # Liana_vcc_2
-Assignment 2 Repository
+This Assignment 2 repository is for learning Git.
